@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/l0MYBGg0OHFabLZGE/giphy.gif?cid=ecf05e4785g75in2j2eu7hxu3gpilmqq9zxyc67sx6s1p2wc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://64.media.tumblr.com/1e91f69f3fc7f5d37323644a5c4d9ca0/tumblr_mjcm9kfGey1qh7gfao1_500.gifv" width="400" align="center"/>
 </div>
