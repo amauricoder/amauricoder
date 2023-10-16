@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="left">
-  <img src="https://giphy.com/gifs/computer-vintage-technology-WAInq2ktLbAuQ" width="100"/>
+  <img src="https://giphy.com/gifs/computer-vintage-technology-WAInq2ktLbAuQ" width="200"/>
 </div>
 <div id="header-complement align="center">
-  <img src="https://giphy.com/gifs/tirol-sport-mountains-7p0qZOxUe5cIM" width="100">
+  <img src="https://giphy.com/gifs/tirol-sport-mountains-7p0qZOxUe5cIM" width="200">
 </div>
