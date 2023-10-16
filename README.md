@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="left">
-  <img src="https://giphy.com/gifs/computer-vintage-technology-WAInq2ktLbAuQ" width="200"/>
+  <iframe src="https://giphy.com/embed/WAInq2ktLbAuQ" width="480" height="459" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-vintage-technology-WAInq2ktLbAuQ">via GIPHY</a></p>
 </div>
 <div id="header-complement align="center">
-  <img src="https://giphy.com/gifs/tirol-sport-mountains-7p0qZOxUe5cIM" width="200">
+  <iframe src="https://giphy.com/embed/7p0qZOxUe5cIM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tirol-sport-mountains-7p0qZOxUe5cIM">via GIPHY</a></p>
 </div>
