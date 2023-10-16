@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="left">
-  <iframe src="https://giphy.com/embed/WAInq2ktLbAuQ" width="480" height="459" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-vintage-technology-WAInq2ktLbAuQ">via GIPHY</a></p>
-</div>
-<div id="header-complement align="center">
-  <iframe src="https://giphy.com/embed/7p0qZOxUe5cIM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tirol-sport-mountains-7p0qZOxUe5cIM">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
