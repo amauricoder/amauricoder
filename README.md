@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <a href="https://www.amaurilisboa.com"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="150" style="max-width: 100%"></a>
 <a href="https://profile.intra.42.fr/users/aconceic"><img alt="42" src="https://camo.githubusercontent.com/f20ade80e876eb3f6accdbe579cb1768614539cea4c6ea5114cc4496c9be59b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f72746f2d3130303030303f7374796c653d666c6174266c6f676f3d3432266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d30303030303026636f6c6f723d303030303030" data-canonical-src="https://img.shields.io/badge/Porto-100000?style=flat&amp;logo=42&amp;logoColor=white&amp;labelColor=000000&amp;color=000000"  width="150" style="max-width: 100%;"></a>
 </div>
-<h2> :wrench: Technologies and complements </h2>
+<h2> :fleur_de_lis: Tech Stack </h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,discord,figma,linux,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,php,laravel,js,react,html,css," />
   </a>
 </div>
 <h2> :wrench: Tools I've been using </h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,discord,figma,linux,wordpress" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,git,discord,figma,linux,postman,stackoverflow,wordpress" />
   </a>
 </div>
