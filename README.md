@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/1e91f69f3fc7f5d37323644a5c4d9ca0/tumblr_mjcm9kfGey1qh7gfao1_500.gifv" width="400" align="center"/>
 </div>
-  ![Profile views](https://komarev.com/ghpvc/?username=amauricoder&style=flat-square)
+<div id="counter" align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=amauricoder&style=flat-square" />
+</div>
 <h1 align="center">Hello there, i'm Amauri! 👋</h1> 
 :bust_in_silhouette: Currently a student at 42 Porto, where I am improving my skills in programming and software development. </br>
 :notebook: Enhancing and reviving some older projects while actively building a portfolio. </br>
