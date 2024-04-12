@@ -22,9 +22,10 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=amauricoder&style=flat-square" />
 </div>
 <h1 align="center">Hello there, i'm Amauri! 👋</h1> 
+<div align="center">
 :bust_in_silhouette: Currently a student at 42 Porto, where I am improving my skills in programming and software development. </br>
 :notebook: Enhancing and reviving some older projects while actively building a portfolio. </br>
-
+</div>
 <h2 align="center"> :handshake: Connect with me </h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/amauri-lisboa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" style="max-width: 100%"></a>
