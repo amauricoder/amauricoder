@@ -10,13 +10,14 @@
 :notebook: Enhancing and reviving some older projects and trying to learn something new everyday.</br>
 </div>
 </br>
-<a href="https://github.com/amauricoder">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=amauricoder&theme=algolia&show_icons=true&card_width=300" />
-</a>
-<a href="https://github.com/amauricoder">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amauricoder&theme=algolia&layout=compact&card_width=300" />
-</a>
-
+<div align=center>
+  <a href="https://github.com/amauricoder">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=amauricoder&theme=algolia&show_icons=true&card_width=300" />
+  </a>
+  <a href="https://github.com/amauricoder">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amauricoder&theme=algolia&layout=compact&card_width=300" />
+  </a>
+</div>
 <h2 align="center"> :handshake: Connect with me </h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/amauri-lisboa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" style="max-width: 100%"></a>
