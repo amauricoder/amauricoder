@@ -25,6 +25,6 @@
 <a href="https://exercism.org/profiles/amauricoder"><img alt="Website" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" width="150" style="max-width: 100%"></a>
 </div>
 <div align="center">
-  <h2>Click to see projects from 42 Porto</h2>
+  <h2>📎 Click to see projects from 42 Porto</h2>
   <a href="https://github.com/amauricoder/42_Common_Core"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJ61e5a9jMyknXegEYQZKc28jiKN6SFMC2k7SLXUo6w&s" /></a>
 </div>
